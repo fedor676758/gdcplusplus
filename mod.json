@@ -1,0 +1,13 @@
+{
+    "geode": "*",
+    "gd": {
+        "android": "2.2081",
+        "win": "2.2081",
+        "mac": "2.2081"
+    },
+    "name": "gdc++",
+    "id": "ty.gdcplusplus",
+    "developer": "ty",
+    "description": "Code editor with floating button support",
+    "version": "1.0.0"
+}
